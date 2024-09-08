@@ -3,7 +3,7 @@ Hi there 👋
 📖 I'm currently pursuing a degree in Electrical Engineering with a specialization in Computer Science  
 🌱 I’m currently learning machine learning and expanding my skills in web development  
 😄 Pronouns: She/her  
-⚡ Hobbies: Singing, reading. 
+⚡ Hobbies: Singing, reading  
 ✨ Connect with me on: https://www.linkedin.com/in/ishika-singh-a43b78232/ 
 
 🛠️ Skills
