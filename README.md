@@ -31,3 +31,7 @@ Hi there 👋
 ### EDA Tools
 ![Tempus](https://img.shields.io/badge/-Tempus-FF6347?style=flat-square&logo=Tempus&logoColor=ffffff)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishikasingh21&layout=compact)
+
+
